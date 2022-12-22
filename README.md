@@ -1,7 +1,7 @@
 ### Olá, eu sou o Morency 👋
 
 Sou um profissional apaixonado por tecnologia!
-Estou tentando uma transição de carreira. Cursando atualmente Front-End...
+Estou tentando uma transição de carreira. Cursando atualmente Front-End e um pouco de java...
 
 <div align="center">
   <a href="https://github.com/MORENCY1990">
