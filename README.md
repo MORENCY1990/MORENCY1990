@@ -12,7 +12,7 @@ Estou tentando uma transição de carreira. Cursando atualmente Front-End e um p
   <img align="center" alt="Morency-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Morency-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Morency-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Morency-java" heigth="30" width="40" src="[https://cdn-icons-png.flaticon.com/512/14/14427.png](https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png)"
+  <img align="center" alt="Morency-java" heigth="30" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png"
 </div>
   
   ##
