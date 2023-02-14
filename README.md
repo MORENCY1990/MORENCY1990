@@ -1,6 +1,6 @@
 ### Olá, eu sou o Morency 👋
 
-Sou um profissional apaixonado por tecnologia!
+Sou um profissional apaixonado por tecnologia!<br>
 Estou numa transição de carreira. Cursando atualmente Java e um pouco de Front-end....
 
 <div align="center">
